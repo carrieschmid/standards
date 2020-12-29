@@ -1,0 +1,61 @@
+export const readingList = [
+  "3D Manicure",
+  "Acne Blue Light Therapy",
+  "Acne Specialist",
+  "Acne Treatments",
+  "Acrylic",
+  "Acrylic Manicure",
+  "Ad Work",
+  "Aesthetic Laser Treatments",
+  "Airbrush",
+  "Aromatherapy",
+  "Aromatherapy Massage",
+  "Babylights",
+  "Balayage",
+  "Bangs",
+  "Barber Fades",
+  "Barber Style Cuts",
+  "Base Color",
+  "Basic Polish",
+  "Blending",
+  "Blonding",
+  "Blow Out",
+  "Bobs",
+  
+]
+
+export const writingList = [
+  "#mydentity",
+  "100% Pure",
+  "AG Hair",
+  "111SKIN",
+  "21 Drops",
+  "3LAB",
+  "Addition Studio",
+  "Adsorb",
+  "Advanced Skin Technology",
+  "African Botanics",
+  "AG Hair",
+  "Agent Nateur",
+  
+]
+
+export const mathList = [
+  "Alabama",
+  "Alaska",
+  "American Samoa",
+  "Arizona",
+  "Arkansas",
+  "California",
+  "Colorado",
+  "Connecticut",
+  "Delaware",
+  "District Of Columbia",
+  "Federated States Of Micronesia",
+  "Florida",
+  "Georgia",
+  "Guam",
+  "Hawaii",
+  "Idaho",
+  
+]

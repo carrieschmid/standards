@@ -3,13 +3,14 @@ import React, { Component } from 'react';
 import Aux from '../../hoc/Aux/Aux';
 import Standards from '../../components/Standards/Standards';
 import BuildControls from '../../components/Standards/BuildControls/BuildControls';
+import { readingList, writingList, mathList } from '../../utils/staticData';
 
 class StandardsBuilder extends Component {
    state = {
         standards: {
-            reading: '',
-            writing: '',
-            math: '',
+            reading: readingList,
+            writing: writingList,
+            math: mathList,
         },
         added: false
     }
